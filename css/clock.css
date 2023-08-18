@@ -1,0 +1,7 @@
+#clock {
+    position: absolute;
+    bottom: 20px;
+    font-size: 60px;
+    font-weight: 200;
+    margin: 30px 0px 20px 0px;
+}

@@ -1,0 +1,25 @@
+#quote {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    border: 1px solid white;
+    width: auto;
+    height: auto;
+    padding: 10px 20px 1px 20px;
+    margin: 50px 0px 60px 0px;
+    line-height: 60px;
+    background-color: rgba(240, 248, 255, 0.6);
+    border-radius: 5px;
+}
+
+#quote__messege {
+    font-size: 50px;
+    font-weight: 100;
+    color: rgb(37, 31, 31);
+}
+#quote__author {
+    font-size: 40px;
+    font-weight: 100;
+    color: rgb(44, 44, 44);
+}
